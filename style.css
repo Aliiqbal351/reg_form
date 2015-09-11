@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background:#D7A0B4;
+}
+
+table td a{
+	text-decoration:none;}
+.error{
+	color:#F00;
+}
+.warning{
+	display:none;
+	color:#F00;
+	
+	}
